@@ -42,7 +42,7 @@ PROCESS TO CREATE A NEW REPOSITORY
 
 1- Sign in or Sigup to github..Ensure you have a github account
 
-2- Create a new Repository 
+2- Create a new Repository
 
 3- Make your Repo visible by ensuring you click public option if want your work to be view by public or private if you alone want to view it.
 
